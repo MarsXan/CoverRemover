@@ -2,6 +2,7 @@
 
 ![Cover Remover](https://github.com/MarsXan/CoverRemover/blob/main/Resources/coverRemover.gif)
 
+
 ***
 
 ## Tools:
